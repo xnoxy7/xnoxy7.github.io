@@ -10,7 +10,7 @@ title:            GH
 tagline:          'A Jekyll theme'
 description:      'Welcome to my archive'
 url:              https://xnoxy7.github.io
-baseurl:          '/'
+baseurl:          ""
 
 author:
   name:           'GH'
