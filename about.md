@@ -5,7 +5,7 @@ title: About
 
 ### Gyeonghwi Jeon
 
-<img src="assets/images/318793.jpg" width="200" height="200"> 
+<img src="{{ site.baseurl }}/assets/images/318793.jpg" width="200" height="200"> 
 
 ---
 #### Academic
