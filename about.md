@@ -3,28 +3,30 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+### Gyeonghwi Jeon
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<img src="assets/images/318793.jpg" width="200" height="200"> 
 
-There are currently two themes built on Poole:
+---
+#### Academic
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+* 2014.08 - 2016.08 [Sungkyunkwan University](https://skku.edu) (MS of Industrial Engineering)
+* 2010.03 - 2014.08 Sungkyunkwan University (BS of urnalism and Mass Communication / Systems Management Engineering)
+* 2007.03 - 2010.02 Korea Digital Media Highschool
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+---
 
-## Setup
+#### Experience
 
-Some fun facts about the setup of this project include:
+* 2019 - Current, Manager of [Shinsegae I&C](https://shinsegae-inc.com/)
+* 2016 - 2019, Research engineer of [VMS Solutions](https://vmsmozart.com)
+* 2015 - 2017, Member of [Team ORCA](https://blog.naver.com/teamorca)
+* 2011 - 2012, Operator of [Everytime](https://everytime.kr)
+* 2002 - Current, Member of [Team CCS](https://caledonia.re.kr)
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+---
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+#### Skill
 
-Thanks for reading!
+* Tech : C, C# Language, VB(A), Planning & Scheduling, Optimization
+* Biz : FP&A, Business Devlopment
