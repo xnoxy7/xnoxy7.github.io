@@ -11,7 +11,7 @@ title: About
 #### Academic
 
 * 2014.08 - 2016.08 [Sungkyunkwan University](https://skku.edu) (MS of Industrial Engineering)
-* 2010.03 - 2014.08 Sungkyunkwan University (BS of urnalism and Mass Communication / Systems Management Engineering)
+* 2010.03 - 2014.08 Sungkyunkwan University (BS of Journalism and Mass Communication / Systems Management Engineering)
 * 2007.03 - 2010.02 Korea Digital Media Highschool
 
 ---
