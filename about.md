@@ -50,7 +50,7 @@ _Work Experience_
 
 + Shinsegae I&C (2019~)
   - IT Service Design / Business Development (Area : Smart Retail)
-    * b;eat 3.0 PJT, Unmanned CVS
+    * [b;eat 3.0 PJT](https://youtu.be/dzPyIsSomkk), [Unmanned CVS](https://n.news.naver.com/mnews/article/119/0002551158?sid=101)
   - Business Management of Cloud Business Div.
   - FP&A
 
