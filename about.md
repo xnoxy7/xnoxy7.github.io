@@ -29,5 +29,5 @@ title: About
 #### Skill
 
 * Tech : C, C# Language, VB(A), Planning & Scheduling, Optimization
-* Biz : FP&A, Business Devlopment
+* Biz : FP&A, Business Development
 
